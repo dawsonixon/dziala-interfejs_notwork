@@ -1,0 +1,11 @@
+<odoo>
+    <data>
+        <template id="s_my_typedjs_module" name="My Typed.js Module" inherit_id="website.layout">
+            <xpath expr="//header" position="inside">
+                <div class="element">
+                    Typed.js will type here.
+                </div>
+            </xpath>
+        </template>
+    </data>
+</odoo>
